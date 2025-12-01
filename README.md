@@ -1,8 +1,16 @@
-🔥 60W Soldering Iron Temperature Controller PCB and Gerber
+## 🔥 60W Soldering Iron Temperature Controller PCB and Gerber
 
 A compact, triac-based AC temperature controller designed for 60W soldering irons.
 This project includes the KiCad schematic, PCB design, BOM, and working circuit based on a phase-angle control method (similar to a dimmer).
 It allows smooth temperature adjustment using a variable resistor while maintaining simplicity and low cost.
+
+## 🏭 PCB Manufacturing
+
+This PCB was fabricated using **NextPCB**.  
+They offer fast, affordable, and high-quality manufacturing suitable for hobby and professional projects.
+
+👉 Order this PCB from NextPCB: [https://www.nextpcb.com
+](https://www.nextpcb.com/?code=HarGharManufacturing)
 
 ✨ Features
 
