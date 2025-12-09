@@ -1132,6 +1132,15 @@
 		(color 0 0 0 0)
 		(uuid "fe5768c7-3d29-4e89-9e69-c4e02fd06f83")
 	)
+	(bus_entry
+		(at 158.75 118.11)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35d58711-2f25-438e-ae5b-d344912b2105")
+	)
 	(bus
 		(pts
 			(xy 207.01 116.84) (xy 92.71 116.84)

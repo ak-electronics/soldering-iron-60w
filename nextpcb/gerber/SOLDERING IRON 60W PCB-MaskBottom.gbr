@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,9.0.2*%
-%TF.CreationDate,2025-11-29T19:41:11+05:30*%
+%TF.CreationDate,2025-12-09T17:36:25+05:30*%
 %TF.ProjectId,SOLDERING IRON 60W PCB,534f4c44-4552-4494-9e47-2049524f4e20,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.2) date 2025-11-29 19:41:11*
+G04 Created by KiCad (PCBNEW 9.0.2) date 2025-12-09 17:36:25*
 %MOMM*%
 %LPD*%
 G01*
@@ -27,8 +27,8 @@ X115000000Y-103000000D03*
 X171000000Y-102750000D03*
 %TD*%
 %TO.C,RV1*%
-X190500000Y-102500000D03*
-X184500000Y-105500000D03*
 X190500000Y-108500000D03*
+X184500000Y-105500000D03*
+X190500000Y-102500000D03*
 %TD*%
 M02*
