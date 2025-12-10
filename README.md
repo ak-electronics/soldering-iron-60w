@@ -45,7 +45,7 @@ I created a 3-part YouTube Shorts series documenting the full process:
 🔗 https://youtube.com/shorts/0d3w683Unvo?feature=share 
 
 ### **2️⃣ PCB Unboxing (NextPCB)**
-🔗 https://youtube.com/shorts/ued5Nsej7-g?feature=share  
+🔗 https://youtube.com/shorts/kNqDfgHMU-M?feature=share  
 
 ### **3️⃣ PCB Assembly & Final Heat Test**
 🔗 https://youtube.com/shorts/WlmB59tTTzk?feature=share  
